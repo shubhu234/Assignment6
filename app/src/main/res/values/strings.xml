@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitApi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_data_not_received">Data Not recieved</string>
+    <string name="user_Id">UserId</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="name">Name</string>
+    <string name="show_details">Show Details</string>
+</resources>
